@@ -1,11 +1,12 @@
-CMakeLists.txt.user
-CMakeCache.txt
-CMakeFiles
-CMakeScripts
-Testing
-Makefile
-cmake_install.cmake
-install_manifest.txt
-compile_commands.json
-CTestTestfile.cmake
-_deps
+# Folder
+/Listings
+/Objects/*.__i
+/Objects/*.obj
+/Objects/*.htm
+/Objects/*.lnp
+
+# File
+/Objects/project
+project.uvgui.Johnson
+project.uvopt
+project.uvproj
